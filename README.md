@@ -14,9 +14,9 @@ The corresponding dataset (images and optimized network weights) can be found at
 - The networks have not been trained on the test cameras
 
 **Requirements** 
-	- numpy (tested with version 1.24.3)
-	- pytorch (tested with version 2.1.0)
-	- torchvision (tested with version 0.15.2)
+- numpy (tested with version 1.24.3)
+- pytorch (tested with version 2.1.0)
+- torchvision (tested with version 0.15.2)
 	
 **How to use**
 
